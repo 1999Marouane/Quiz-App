@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is the output of 'typeof null' in JavaScript?",
+      "options": [
+        "Object",
+        "Undefined",
+        "Null",
+        "String"
+      ],
+      "correctAnswer": "Object"
+    },
+    {
+      "id": 2,
+      "question": "What is a closure in JavaScript?",
+      "options": [
+        "A type of function",
+        "A combination of function and lexical environment",
+        "A built-in JavaScript method",
+        "A way to style HTML elements"
+      ],
+      "correctAnswer": "A combination of function and lexical environment"
+    },
+    {
+      "id": 3,
+      "question": "What is the result of 10 + '20' in JavaScript?",
+      "options": [
+        "30",
+        "1020",
+        "102",
+        "Error"
+      ],
+      "correctAnswer": "1020"
+    },
+    {
+      "id": 4,
+      "question": "What does the 'this' keyword refer to in JavaScript?",
+      "options": [
+        "The current function",
+        "The global object",
+        "The object that owns the function",
+        "A reserved keyword in JavaScript"
+      ],
+      "correctAnswer": "The object that owns the function"
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the 'new' keyword in JavaScript?",
+      "options": [
+        "To create a new object",
+        "To call a function",
+        "To delete an object",
+        "To retrieve data from a server"
+      ],
+      "correctAnswer": "To create a new object"
+    },
+    {
+      "id": 6,
+      "question": "Which built-in method can be used to convert a string to an integer in JavaScript?",
+      "options": [
+        "parseInt()",
+        "toFixed()",
+        "toInteger()",
+        "toString()"
+      ],
+      "correctAnswer": "parseInt()"
+    },
+    {
+      "id": 7,
+      "question": "What is a callback function in JavaScript?",
+      "options": [
+        "A function that is called after a delay",
+        "A function that is passed as an argument to another function and is executed after that function completes",
+        "A function that returns another function",
+        "A function that is defined inside another function"
+      ],
+      "correctAnswer": "A function that is passed as an argument to another function and is executed after that function completes"
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the 'map' method in JavaScript?",
+      "options": [
+        "To iterate over an array and modify its elements",
+        "To create a new array with modified elements",
+        "To remove elements from an array",
+        "To sort an array"
+      ],
+      "correctAnswer": "To create a new array with modified elements"
+    },
+    {
+      "id": 9,
+      "question": "What is the result of the expression '2 + 5 * 3' in JavaScript?",
+      "options": [
+        "21",
+        "17",
+        "23",
+        "Error"
+      ],
+      "correctAnswer": "17"
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of the 'push' method in JavaScript?",
+      "options": [
+        "To add elements to the beginning of an array",
+        "To remove elements from an array",
+        "To add elements to the end of an array",
+        "To reverse the order of elements in an array"
+      ],
+      "correctAnswer": "To add elements to the end of an array"
+    },
+    {
+      "id": 11,
+      "question": "Which operator is used for strict equality comparison in JavaScript?",
+      "options": [
+        "==",
+        "===",
+        "=",
+        "!="
+      ],
+      "correctAnswer": "==="
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of the 'filter' method in JavaScript?",
+      "options": [
+        "To create a new array with filtered elements",
+        "To remove elements from an array",
+        "To sort an array",
+        "To iterate over an array and modify its elements"
+      ],
+      "correctAnswer": "To create a new array with filtered elements"
+    },
+    {
+      "id": 13,
+      "question": "Which function is used to declare a variable in JavaScript?",
+      "options": [
+        "var",
+        "let",
+        "const",
+        "declare"
+      ],
+      "correctAnswer": "var"
+    },
+    {
+      "id": 14,
+      "question": "What does 'NaN' stand for in JavaScript?",
+      "options": [
+        "Not a Number",
+        "New Assignment Name",
+        "Negative Absolute Number",
+        "No Available Number"
+      ],
+      "correctAnswer": "Not a Number"
+    },
+    {
+      "id": 15,
+      "question": "What is the purpose of the 'reduce' method in JavaScript?",
+      "options": [
+        "To apply a function to each element in an array and reduce it to a single value",
+        "To remove elements from an array",
+        "To sort an array",
+        "To create a new array with modified elements"
+      ],
+      "correctAnswer": "To apply a function to each element in an array and reduce it to a single value"
+    },
+    {
+      "id": 16,
+      "question": "Which keyword is used to prevent a variable from being modified in JavaScript?",
+      "options": [
+        "const",
+        "let",
+        "var",
+        "readonly"
+      ],
+      "correctAnswer": "const"
+    },
+    {
+      "id": 17,
+      "question": "What is the purpose of the 'splice' method in JavaScript?",
+      "options": [
+        "To add or remove elements from an array",
+        "To create a new array with modified elements",
+        "To sort an array",
+        "To iterate over an array and modify its elements"
+      ],
+      "correctAnswer": "To add or remove elements from an array"
+    },
+    {
+      "id": 18,
+      "question": "What is an IIFE in JavaScript?",
+      "options": [
+        "Immediately Invoked Function Expression",
+        "Integrated Internet Function Environment",
+        "Internal Inline Function Execution",
+        "Interpreted Interface Function Element"
+      ],
+      "correctAnswer": "Immediately Invoked Function Expression"
+    },
+    {
+      "id": 19,
+      "question": "What is the result of '5' == 5 in JavaScript?",
+      "options": [
+        "true",
+        "false",
+        "Error",
+        "Undefined"
+      ],
+      "correctAnswer": "true"
+    },
+    {
+      "id": 20,
+      "question": "What is the purpose of the 'bind' method in JavaScript?",
+      "options": [
+        "To create a new array with modified elements",
+        "To set the value of 'this' for a function and return a new function",
+        "To remove elements from an array",
+        "To iterate over an array and modify its elements"
+      ],
+      "correctAnswer": "To set the value of 'this' for a function and return a new function"
+    }
+  ]
+  

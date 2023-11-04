@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Login.css'
+import { Link } from 'react-router-dom'
 
 const Login = () => {
-
 
   return (
     <div className='container'>
@@ -12,7 +12,8 @@ const Login = () => {
         <input type="text" name="password" placeholder='Password' /><br /><br />
         <button>Login</button>
       </from>
-      <div> <p>Not Momper ? <span><a href="">Signup</a></span></p> </div>
+      <div> <p>Not Momper ? <span><Link to='/Newaccont'>Signup</Link></span></p> </div>
+      
     </div>
   )
 }

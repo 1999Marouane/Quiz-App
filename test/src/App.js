@@ -1,13 +1,18 @@
-import './App.css';
-import Login from './Component-login/Login';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NewAccont from './Component-login/NewAccont';
+import Login from './Component-login/Login';
+import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      {/* <Login /> */}
-      <NewAccont />
-    </div>
+    <Router>
+      <div className="App">
+      <Routes>
+        <Route path="/" exact element={<Login/>} /> 
+        <Route path="/Newaccont" element={<NewAccont />} />
+      </Routes>
+      </div>
+    </Router>
   );
 }
 

@@ -1,0 +1,77 @@
+[
+    {
+      "question": "What does the acronym 'DOM' stand for in JavaScript?",
+      "options": ["Document Object Model", "Dynamic Object Model", "Data Object Management", "Document Orientation Model"],
+      "correctAnswer": "Document Object Model"
+    },
+    {
+      "question": "Which keyword is used to declare variables in JavaScript?",
+      "options": ["var", "let", "const", "variable"],
+      "correctAnswer": "var"
+    },
+    {
+      "question": "What is the result of 5 + '5' in JavaScript?",
+      "options": ["55", "10", "NaN", "5 + '5'"],
+      "correctAnswer": "55"
+    },
+    {
+      "question": "What is the purpose of the 'typeof' operator in JavaScript?",
+      "options": ["To check the data type of a value", "To create a new variable", "To define a function", "To loop through an array"],
+      "correctAnswer": "To check the data type of a value"
+    },
+    {
+      "question": "What is the 'this' keyword in JavaScript?",
+      "options": ["It refers to the current function", "It refers to the global object", "It refers to the current instance of an object", "It refers to the next function"],
+      "correctAnswer": "It refers to the current instance of an object"
+    },
+    {
+      "question": "What does 'NaN' stand for?",
+      "options": ["Not a Number", "New Assignment", "Null and None", "Negative Absolute Number"],
+      "correctAnswer": "Not a Number"
+    },
+    {
+      "question": "What is the 'addEventListener' method used for in JavaScript?",
+      "options": ["To add event handlers to HTML elements", "To create new HTML elements", "To add comments to the code", "To add styles to HTML elements"],
+      "correctAnswer": "To add event handlers to HTML elements"
+    },
+    {
+      "question": "Which built-in method removes the last element from an array in JavaScript?",
+      "options": ["pop()", "push()", "remove()", "shift()"],
+      "correctAnswer": "pop()"
+    },
+    {
+      "question": "What is a closure in JavaScript?",
+      "options": ["A combination of a function and the lexical environment within which that function was declared", "A loop that iterates through an array", "A way to declare constants", "A type of error"],
+      "correctAnswer": "A combination of a function and the lexical environment within which that function was declared"
+    },
+    {
+      "question": "What is the purpose of the 'parseInt' function in JavaScript?",
+      "options": ["To convert a string to an integer", "To create an array", "To add two numbers", "To convert a number to a string"],
+      "correctAnswer": "To convert a string to an integer"
+    },
+    {
+      "question": "What is the 'Array' data type in JavaScript used for?",
+      "options": ["To store a list of values", "To define objects", "To perform mathematical operations", "To create strings"],
+      "correctAnswer": "To store a list of values"
+    },
+    {
+      "question": "What does the 'return' statement do in a JavaScript function?",
+      "options": ["It specifies the value to be returned from the function", "It ends the execution of the function", "It declares a new variable", "It creates an object"],
+      "correctAnswer": "It specifies the value to be returned from the function"
+    },
+    {
+      "question": "How can you check if a variable is undefined in JavaScript?",
+      "options": ["Using the 'typeof' operator", "By comparing it to null", "By using the 'undefined' keyword", "By checking if it's an empty string"],
+      "correctAnswer": "Using the 'typeof' operator"
+    },
+    {
+      "question": "What is an IIFE in JavaScript?",
+      "options": ["Immediately Invoked Function Expression", "Interactive Inline Function Execution", "Internal Integration for Functions and Elements", "Inline If-Else Statement"],
+      "correctAnswer": "Immediately Invoked Function Expression"
+    },
+    {
+      "question": "What is the purpose of the 'map' method in JavaScript?",
+      "options": ["To create a new array with the results of calling a provided function on every element in the array", "To loop through an array", "To remove an element from an array", "To add an element to an array"],
+      "correctAnswer": "To create a new array with the results of calling a provided function on every element in the array"
+    }
+]
