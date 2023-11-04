@@ -5,8 +5,8 @@ import NewAccont from './Component-login/NewAccont';
 function App() {
   return (
     <div className="App">
-      <Login />
-      {/* <NewAccont /> */}
+      {/* <Login /> */}
+      <NewAccont />
     </div>
   );
 }
