@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  
+}
+
+body{
+ 
+    background-color:rgb(43, 43, 72);
+  background-image:
+  radial-gradient(at 81% 91%, hsla(289,84%,66%,1) 0px, transparent 50%),
+  radial-gradient(at 5% 48%, hsla(258,84%,66%,1) 0px, transparent 50%),
+  radial-gradient(at 7% 61%, hsla(257,96%,79%,1) 0px, transparent 50%),
+  radial-gradient(at 79% 31%, hsla(289,72%,72%,1) 0px, transparent 50%);
+ 
 }
 
 .App-logo {
@@ -13,20 +25,9 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
+
+
 
 @keyframes App-logo-spin {
   from {
