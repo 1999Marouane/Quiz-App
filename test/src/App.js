@@ -1,16 +1,19 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import NewAccont from './Component-login/NewAccont';
-import Login from './Component-login/Login';
+// import NewAccont from './Component-login/NewAccont';
+// import Login from './Component-login/Login';
 import './App.css';
+import Play from './Component-Qiuz/Play';
 
 function App() {
   return (
     <Router>
       <div className="App">
-      <Routes>
+        {/* <Routes>
         <Route path="/" exact element={<Login/>} /> 
         <Route path="/Newaccont" element={<NewAccont />} />
-      </Routes>
+      </Routes> */}
+        <Play />
+        
       </div>
     </Router>
   );
