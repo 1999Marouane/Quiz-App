@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 // import NewAccont from './Component-login/NewAccont';
 // import Login from './Component-login/Login';
 import './App.css';
-import Play from './Component-Qiuz/Play';
+import Coding from './Component-Qiuz/Coding';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
         <Route path="/" exact element={<Login/>} /> 
         <Route path="/Newaccont" element={<NewAccont />} />
       </Routes> */}
-        <Play />
+        <Coding />
         
       </div>
     </Router>
