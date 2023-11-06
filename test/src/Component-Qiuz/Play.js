@@ -4,7 +4,7 @@ import './Play.css'
 const Play = (props) => {
     return (
         <div className='conntainer'>
-            <div className='numpers'><span>10 sec</span><span>{props.numper}/20</span></div>
+            <div className='numpers'><span>10 sec</span><span>{props.numper}/19</span></div>
             <div className='question'><p>{props.question}</p></div>
             <div className='answer'>
                 <button onClick={props.answer1} value={props.textvalue1}>{props.showanswer1}</button>
